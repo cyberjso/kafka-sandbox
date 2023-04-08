@@ -1,0 +1,13 @@
+{
+  "type": "record",
+  "namespace": "io.joliveira.kafka.sandbox",
+  "name": "sampleRecord",
+  "doc": "Sample schema to help you get started.",
+  "fields": [
+    {
+      "name": "message",
+      "type": "string",
+      "doc": "The int type is a 32-bit signed integer."
+    }
+  ]
+}
